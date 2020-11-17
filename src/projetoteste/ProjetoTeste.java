@@ -19,7 +19,7 @@ public class ProjetoTeste {
         int a = 5;
         int b = 5;
         int soma = a + b;
-        system.out.print (soma);
+        System.out.println(soma);
     }
     
 }
