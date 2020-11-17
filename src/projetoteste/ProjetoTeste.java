@@ -16,6 +16,10 @@ public class ProjetoTeste {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a = 5;
+        int b = 5;
+        int soma = a + b;
+        system.out.print (soma);
     }
     
 }
