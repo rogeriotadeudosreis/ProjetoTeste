@@ -1,4 +1,4 @@
-adicionada uma linha mas eu alterei novamente aqui no remoto
+adicionada uma linha mas eu alterei aqui no remoto novamente junto com o local
 adiciona uma segunda linha
 adiciona uma linha aqui, e aqui no remoto alterando esta mesma linha
 
